@@ -1,0 +1,9 @@
+playwright
+trafilatura
+qdrant-client
+openai
+tiktoken
+python-dotenv
+dashtable
+PyPDF2
+pydantic
